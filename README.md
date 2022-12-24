@@ -1,3 +1,3 @@
 # check-list-Bug-bounty-
 :)
-Gfuj
+# ssrf
